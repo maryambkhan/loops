@@ -27,4 +27,4 @@
 - [Lorem Picsum](https://picsum.photos/images)
 
 - [GH repo](https://github.com/maryambkhan/loops)
-- [GH pages]()
+- [GH pages](https://maryambkhan.github.io/loops/)
