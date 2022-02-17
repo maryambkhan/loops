@@ -1,0 +1,15 @@
+.title {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1024px;
+  margin: auto; 
+}
+.gallery > *{
+  margin: 1em; 
+}
